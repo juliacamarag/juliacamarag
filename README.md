@@ -2,7 +2,7 @@
 
 - 💻 Studying the 2nd semester of Computer Science at Universidade Federal Fluminense
 - 🌱 Currently learning game development
-- 👯 I’m looking foward for my first job
+- 👯 I’m looking for my first job
 - 🏳 Living in Brazil
 - 😄 Pronouns: she/her
 
