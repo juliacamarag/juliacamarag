@@ -1,10 +1,9 @@
 ### Hi there 👋🌸
 
-- 💻 Studying the 2nd semester of Computer Science at Universidade Federal Fluminense
+- 💻 Studying the 3nd semester of Computer Science at Universidade Federal Fluminense
 - 🌱 Currently learning game development with Java
 - 👯 I’m looking for my first job
 - 🏳 Living in Brazil
-- 😄 Pronouns: she/her
 
 
 <div>
