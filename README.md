@@ -1,7 +1,7 @@
 ### Hi there 👋🌸
 
-- 💻 Studying the 5nd semester of Computer Science at Universidade Federal Fluminense
-- 🌱 Currently learning Game Development and Web Development 
+- 💻 5th semester of Computer Science at Universidade Federal Fluminense
+- 🌱 Currently learning Web Development 
 - 🏳 Living in Brazil
 
 
