@@ -2,7 +2,6 @@
 
 - 💻 5th semester of Computer Science at Universidade Federal Fluminense
 - 🌱 Currently learning Web Development 
-- 🏳 Living in Brazil
 
 
 <div>
