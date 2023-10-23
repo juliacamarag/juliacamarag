@@ -1,7 +1,7 @@
 ### Hi there 👋🌸
 
 - 💻 5th semester of Computer Science at Universidade Federal Fluminense
-- ✌️ Currently working with Web Development and Scientific Programming
+- ✌️ Currently working with Web Development and Machine Learning
 
 
 <div>
